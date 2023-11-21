@@ -30,7 +30,15 @@
       "title": "Wallet",
       "categories": [ "Wallets"],
       "app_link": "https://t.me/wallet/start",
-      "description": "Wallet is a convenient and safe service to buy, store, and send cryptocurrencies."
+      "description": "Convenient and safe service to buy, store, and send cryptocurrencies."
+    },
+    {
+      "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
+      "preview_img": "https://cdn4.cdn-telegram.org/file/j5lhBx9facLxrGYH2TWGDxw5OOrmHctH3dli30tw4L_nAOMU0rVlk943FyzVFihpHW5HdqM6boLWqPBJiS5PWijfKHxvb9TEpahRCbu_Jt88OlkYmw-KtUNNWpczcoyz4jSJQ7nWlcSCY4VZPIYg2Lw6MWyu-F5Rxdy0gwfNmvAi12L3omXOGwjQI2O6Ow8xfIiZ1R_MhhWGoAnJeF1FUWEAKGrmlJgLOlEjnwtRVCuwBS-yXStbf8qhj0d97EsMpgQRi3gky_NDEtdnfuWoq1uW-4slRd3sTL785t2tVolqC1SXQDoZHN-NiX2GCjOEpdR5d2I-jlQjVDH_1mb-KA.jpg",
+      "title": "xRocket",
+      "categories": [ "CEX"],
+      "app_link": "https://t.me/xrocket/cex",
+      "description": "Trade, send and receive popular cryptocurrencies"
     }
   ]
 }

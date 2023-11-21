@@ -6,8 +6,7 @@
       "title": "DeCoupons",
       "categories": "DeLab",
       "app_link": "https://t.me/delabtonbot/dewa",
-      "description": "Smart contract-based coupon platform with integrated front-end interface.",
-      "rating": 0
+      "description": "Smart contract-based coupon platform with integrated front-end interface."
     },
     {
       "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
@@ -15,8 +14,7 @@
       "title": "DeDonate",
       "categories": "DeLab",
       "app_link": "https://t.me/delabtonbot/donate",
-      "description": "DeDonate - Cryptocurrency Donation Service",
-      "rating": 0
+      "description": "DeDonate - Cryptocurrency Donation Service"
     }
   ]
 }

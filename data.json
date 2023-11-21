@@ -4,7 +4,9 @@
       "id": "887fe730-7a75-13ef-b2bb-f9c14c441dfb",
       "preview_img": "https://avatars.githubusercontent.com/u/116884789?s=200&v=4",
       "title": "DeWallet",
-      "categories": ["Wallets", "DeLab"]
+      "categories": ["Wallets", "DeLab"],
+      "app_link": "https://chromewebstore.google.com/detail/dewallet/pnccjgokhbnggghddhahcnaopgeipafg?pli=1",
+      "description": "DeWallet is an extension for accessing TON"
     }, 
     {
       "id": "887fe730-7a75-11ee-babb-f9c14c111dfb",

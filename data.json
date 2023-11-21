@@ -1,10 +1,16 @@
 {
   "data": [
     {
+      "id": "887fe730-7a75-13ef-b2bb-f9c14c441dfb",
+      "preview_img": "https://avatars.githubusercontent.com/u/116884789?s=200&v=4",
+      "title": "DeWallet",
+      "categories": ["Wallets", "DeLab"]
+    }, 
+    {
       "id": "887fe730-7a75-11ee-babb-f9c14c111dfb",
       "preview_img": "https://avatars.githubusercontent.com/u/116884789?s=200&v=4",
       "title": "DeCoupons",
-      "categories": "DeLab",
+      "categories": ["DeLab", "Utilities"],
       "app_link": "https://t.me/delabtonbot/dewa",
       "description": "Smart contract-based coupon platform with integrated front-end interface."
     },
@@ -12,7 +18,7 @@
       "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
       "preview_img": "https://avatars.githubusercontent.com/u/116884789?s=200&v=4",
       "title": "DeDonate",
-      "categories": "DeLab",
+      "categories": ["DeLab", "Utilities"],
       "app_link": "https://t.me/delabtonbot/donate",
       "description": "DeDonate - Cryptocurrency Donation Service"
     }

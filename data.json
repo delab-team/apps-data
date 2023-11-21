@@ -23,6 +23,14 @@
       "categories": ["DeLab", "Utilities"],
       "app_link": "https://t.me/delabtonbot/donate",
       "description": "DeDonate - Cryptocurrency Donation Service"
+    },
+    {
+      "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
+      "preview_img": "https://cdn4.cdn-telegram.org/file/K3RofrdD5veDWoVaW6SS39PIEZaYeV--RFqtCK0ixXpFmZ0jIOCST2eVqpmNO1X7t836QlbE8Z30o7DDjsZ_NC3scHQDN5aQYIoLn7xkzZdBDuCG1ntJ9jZT3R_0BxDamLZrJeFNXxT2XPG00NEVXP1etWKTlZKnOIRg5xYMGxSJMsSkO_p3__WT_Bomg_X0VO9ujiYkYjqYfrLGUieXqC1KYUiTvC-I3hnzAMXJo326-HlszZhnvS67-WmBtMKqLORSZTZzy5HwtJaGWKVyTTT2TTBXaLi1CQ893HA3rrUU-1fgWiZUkDerbykTsx0rC17msUsB1-LBCV47glD1Bg.jpg",
+      "title": "Wallet",
+      "categories": [ "Wallets"],
+      "app_link": "https://t.me/wallet/start",
+      "description": "Wallet is a convenient and safe service to buy, store, and send cryptocurrencies."
     }
   ]
 }

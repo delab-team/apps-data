@@ -1,0 +1,1 @@
+To add an application to the directory, send a pull request with your application to this repository

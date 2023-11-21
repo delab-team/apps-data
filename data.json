@@ -39,6 +39,14 @@
       "categories": [ "CEX"],
       "app_link": "https://t.me/xrocket/cex",
       "description": "Trade, send and receive popular cryptocurrencies"
+    },
+    {
+      "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
+      "preview_img": "https://cdn4.cdn-telegram.org/file/j90sWQH4kWmBgMBFDS3JvyRF2wjjt6LKBgXsIWRkrS0LRdP2XIrXOl7qYE8E0bUhUloIXqOevg4pX7hadlrG6PSmng9g_gIEZm4ziQtBHwLZ3mJdnOIBKVuSOu0YBG9O1Db-lLzRi6fjlU32wITynpo38z5WvhXK8lHGg30zvxL6sZjzi5_5q0BmTweU79siWlZguvyb37kqnNIaRXiXs0saBNgbjdW2-GBs4v7hdYsmF_Apw3os5bupai595QWqj3-E0syFr9CSUnONX_svHFf01gi5z4ZEH3tybZk94oOpr8pmgVCQdMDjAFGVFfyEaUkNslloD7cQfMnHG-Q9EA.jpg",
+      "title": "JetTon Games",
+      "categories": [ "Gambling"],
+      "app_link": "https://t.me/jetton?game=JetTonRu",
+      "description": "The best iGaming platform in Telegram"
     }
   ]
 }

@@ -18,14 +18,6 @@
     },
     {
       "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
-      "preview_img": "https://ton.app/media/f0a3e507-9500-41af-8d91-9188f72c50c0.jpg?w=384&q=50",
-      "title": "Wallet",
-      "categories": [ "Wallets"],
-      "app_link": "https://t.me/wallet/start",
-      "description": "Convenient and safe service to buy, store, and send cryptocurrencies."
-    },
-    {
-      "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
       "preview_img": "https://ton.app/media/3f30dde6-870b-4d0b-a2d1-201666e01a41.png?w=640&q=50",
       "title": "xRocket",
       "categories": [ "CEX"],

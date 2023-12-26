@@ -95,6 +95,14 @@
       "categories": [ "Defi" ],
       "app_link": "https://tonstarter.com/",
       "description": "First and the best launchpad on TON"
-    }
+    },
+    {
+      "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd132",
+      "preview_img": "./assets/img/betty.jpg",
+      "title": "Betty",
+      "categories": [ "Utilities" ],
+      "app_link": "t.me/bettygames_bot/betty",
+      "description": "Decentralised Betting Platform"
+  }
   ]
 }

@@ -10,14 +10,6 @@
     },
     {
       "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
-      "preview_img": "https://avatars.githubusercontent.com/u/116884789?s=200&v=4",
-      "title": "DeDonate",
-      "categories": ["DeLab", "Utilities"],
-      "app_link": "https://t.me/delabtonbot/donate",
-      "description": "DeDonate - Cryptocurrency Donation Service"
-    },
-    {
-      "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
       "preview_img": "https://ton.app/media/3f30dde6-870b-4d0b-a2d1-201666e01a41.png?w=640&q=50",
       "title": "xRocket",
       "categories": [ "CEX"],

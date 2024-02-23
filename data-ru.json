@@ -95,6 +95,14 @@
       "categories": [ "Утилиты" ],
       "app_link": "https://t.me/bettygames_bot/betty",
       "description": "Децентрализованная платформа для ставок"
+  },
+  {
+    "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd155",
+    "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/betty.jpg",
+    "title": "DeVpn",
+    "categories": ["DeLab", "Утилиты"],
+    "app_link": "https://t.me/delabtonbot/vpn",
+    "description": "Быстрый VPN на базе TON"
   }
   ]
 }

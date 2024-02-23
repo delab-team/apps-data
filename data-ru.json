@@ -17,14 +17,6 @@
       "description": "Торгуйте, отправляйте и получайте популярные криптовалюты"
     },
     {
-      "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
-      "preview_img": "https://ton.app/media/ca41061a-9da7-4695-ba75-c177dfc5f4c7.jpg?w=640&q=50",
-      "title": "JetTon Games",
-      "categories": [ "Азартные игры"],
-      "app_link": "https://t.me/jetton?game=JetTonRu",
-      "description": "Лучшая iGaming-платформа в Telegram"
-    },
-    {
       "id": "887f1130-7a75-11e4-ba11b-f9c14cb0ddfb",
       "preview_img": "https://ton.app/media/e02e96ca-5b18-41b1-983c-77755957dc44.jpg",
       "title": "Mercuryo",

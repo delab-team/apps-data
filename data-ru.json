@@ -111,6 +111,14 @@
       "categories": ["Defi"],
       "app_link": "https://t.me/StormTradeBot/trade?startapp=3A2LK6sewdQKMmsUF",
       "description": "Децентрализованная биржа с кредитным плечом для торговли деривативами в Telegram"
+    },
+    {
+      "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd1d1",
+      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/storm.png",
+      "title": "Coffee Swap",
+      "categories": ["Defi", "Обменники"],
+      "app_link": "https://swap.coffee/dex",
+      "description": "Покупайте, продавайте и изучайте токены и NFT."
     }
   ]
 }

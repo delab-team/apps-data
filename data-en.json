@@ -119,6 +119,14 @@
       "categories": ["Defi", "Exchangers"],
       "app_link": "https://swap.coffee/dex",
       "description": "Buy, sell, and explore tokens and NFTs"
+    },
+    {
+      "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd111",
+      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/coffee.png",
+      "title": "JetTon 💎 Games",
+      "categories": ["Defi"],
+      "app_link": "https://t.me/jetton",
+      "description": "First (EST 02.2023) and still #1 Telegram gaming platform with 5000+ licensed games🎰"
     }
   ]
 }

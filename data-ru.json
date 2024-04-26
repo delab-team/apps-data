@@ -119,6 +119,14 @@
       "categories": ["Defi", "Обменники"],
       "app_link": "https://swap.coffee/dex",
       "description": "Покупайте, продавайте и изучайте токены и NFT."
+    },
+    {
+      "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd111",
+      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/coffee.png",
+      "title": "JetTon 💎 Games",
+      "categories": ["Defi"],
+      "app_link": "https://t.me/jetton",
+      "description": "Первая (EST 02.2023) и по-прежнему №1 игровая платформа Telegram с более чем 5000 лицензионными играми🎰"
     }
   ]
 }

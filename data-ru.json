@@ -61,7 +61,7 @@
         "preview_img": "https://ton.app/media/0f34939b-44b1-4be6-9ac1-2f97d61655d4.png",
         "title": "STON.fi",
         "categories": [ "Defi" ],
-        "app_link": "https://app.ston.fi/swap?chartVisible=false&ft=jUSDT&tt=STON",
+        "app_link": "https://app.ston.fi/swap?chartVisible=false&ft=TON&tt=DFC",
         "description": "Дефи обменник с низкой комиссией"
       },
       {

@@ -10,14 +10,6 @@
     },
     {
       "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
-      "preview_img": "https://avatars.githubusercontent.com/u/116884789?s=200&v=4",
-      "title": "DeDonate",
-      "categories": ["DeLab", "Utilities"],
-      "app_link": "https://t.me/delabtonbot/donate",
-      "description": "DeDonate - Cryptocurrency Donation Service"
-    },
-    {
-      "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
       "preview_img": "https://ton.app/media/3f30dde6-870b-4d0b-a2d1-201666e01a41.png?w=640&q=50",
       "title": "xRocket",
       "categories": [ "CEX"],
@@ -69,7 +61,7 @@
       "preview_img": "https://ton.app/media/0f34939b-44b1-4be6-9ac1-2f97d61655d4.png",
       "title": "STON.fi",
       "categories": [ "Defi" ],
-      "app_link": "https://app.ston.fi/swap?chartVisible=false&ft=jUSDT&tt=STON",
+      "app_link": "https://app.ston.fi/swap?chartVisible=false&ft=TON&tt=DFC",
       "description": "Low-fee defi exchanger"
     },
     {
@@ -88,6 +80,14 @@
       "app_link": "https://tonstarter.com/",
       "description": "First and the best launchpad on TON"
     },
+    {
+      "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd132",
+      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/betty.jpg",
+      "title": "Betty",
+      "categories": [ "Utilities" ],
+      "app_link": "https://t.me/bettygames_bot/betty",
+      "description": "Decentralized betting platform"
+  },
     {
       "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd155",
       "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/vpn.png",

@@ -1,0 +1,63 @@
+{
+  "banners": [
+    {
+      "title": "Присоединиться к сообществу DeLab Team",
+      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/9915879c59c6859a11ff9b1ea208d2f2cf538e62/assets/tg-banner.svg",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/delab"
+      }
+    },
+    {
+      "title": "Обмены swap.coffee теперь доступны в DeWallet!",
+      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/9915879c59c6859a11ff9b1ea208d2f2cf538e62/assets/coffe-banner.svg",
+      "link": {
+        "type": "INTERNAL",
+        "href": "/swap"
+      }
+    }
+  ],
+  "apps": [
+    {
+      "title": "swap.coffee",
+      "description": "Первый агрегатор DEX с маршрутизацией",
+      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/9915879c59c6859a11ff9b1ea208d2f2cf538e62/assets/coffe-banner.svg",
+      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/coffe-swap-bg.png?raw=true",
+      "link": {
+        "type": "LINK",
+        "href": "https://swap.coffee/"
+      }
+    },
+    {
+      "title": "Arraken Planet",
+      "description": "DFC Фермерская стратегия",
+      "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/araken-logo.jpg?raw=true",
+      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/arraken-bg.png?raw=true",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/ArrakkenPlanet_bot"
+      }
+    },
+    {
+      "title": "DeSIM",
+      "description": "Купить eSIM из другой страны",
+      "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/desim.jpg?raw=true",
+      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/de-sim-bg.png?raw=true",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/desimtonbot/start"
+      }
+    },
+    {
+      "title": "DeVPN",
+      "description": "Использовать VPN из другой страны",
+      "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/vpn.png?raw=true",
+      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/de-vpn-bg.png?raw=true",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/delabvpnbot/start"
+      }
+    }
+  ]
+}
+

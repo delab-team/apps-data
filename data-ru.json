@@ -80,14 +80,6 @@
         "app_link": "https://tonstarter.com/",
         "description": "Первая и лучшая панель запуска TON"
       },
-      {
-        "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd132",
-        "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/betty.jpg",
-        "title": "Betty",
-        "categories": [ "Утилиты" ],
-        "app_link": "https://t.me/bettygames_bot/betty",
-        "description": "Децентрализованная платформа для ставок"
-    },
     {
       "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd155",
       "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/vpn.png",
@@ -115,10 +107,10 @@
     {
       "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd1d1",
       "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/coffee.png",
-      "title": "Coffee Swap",
+      "title": "swap.coffee",
       "categories": ["Defi", "Обменники"],
       "app_link": "https://swap.coffee/dex",
-      "description": "Покупайте, продавайте и изучайте токены и NFT."
+      "description": "Прогрессивный DEX Aggregator"
     },
     {
       "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd111",

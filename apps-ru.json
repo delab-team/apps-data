@@ -53,6 +53,8 @@
       "description": "Использовать VPN из другой страны",
       "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/vpn.png?raw=true",
       "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/de-vpn-bg.png?raw=true",
+      "titleColor": "#1C1E22",
+      "descriptionColor": "#8A97AA",
       "link": {
         "type": "TG",
         "href": "https://t.me/delabvpnbot/start"

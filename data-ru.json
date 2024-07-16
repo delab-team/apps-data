@@ -1,77 +1,29 @@
 {
   "data": [
-      {
-        "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
-        "preview_img": "https://ton.app/media/3f30dde6-870b-4d0b-a2d1-201666e01a41.png?w=640&q=50",
-        "title": "xRocket",
-        "categories": [ "CEX"],
-        "app_link": "https://t.me/xrocket/cex",
-        "description": "Торгуйте, отправляйте и получайте популярные криптовалюты"
-      },
-      {
-        "id": "887f1130-7a75-11e4-ba11b-f9c14cb0ddfb",
-        "preview_img": "https://ton.app/media/e02e96ca-5b18-41b1-983c-77755957dc44.jpg",
-        "title": "Mercuryo",
-        "categories": [ "Обменники" ],
-        "app_link": "https://exchange.mercuryo.io/?currency=TONCOIN",
-        "description": "Купить TON за фиат"
-      },
-      {
-        "id": "887f1132-7a35-11e4-ba11b-19c14cb0ddfb",
-        "preview_img": "https://ton.app/media/4853bbbd-6430-49e3-ba4c-92442337dd5c.jpg",
-        "title": "Neocrypto",
-        "categories": [ "Обменники" ],
-        "app_link": "https://neocrypto.net",
-        "description": "Быстрая покупка TON, BTC с помощью кредитной карты"
-      },
-      {
-        "id": "887f1130-7a75-11e8-ba21b-f9c14cb0ddf11",
-        "preview_img": "https://ton.app/media/711a8487-7a60-4da6-9ea0-e2b2e165512f.jpg",
-        "title": "Changelly",
-        "categories": [ "Обменники" ],
-        "app_link": "https://ton.app/exchanges/changelly?id=508",
-        "description": "Быстрый обмен криптовалют"
-      },
-      {
-        "id": "887f1135-7a75-11e4-b211b-f9c14cb0dd441",
-        "preview_img": "https://ton.app/media/2758f0d3-8b4f-46fd-b4d2-6e75906e59b4.jpg",
-        "title": "Transak",
-        "categories": [ "Обменники" ],
-        "app_link": "https://transak.com/",
-        "description": "Предоставьте пользователям возможность покупать криптовалюту."
-      },
-      {
-        "id": "887f1130-7a75-11e4-ba11b-f9c14cb0dd132",
-        "preview_img": "https://ton.app/media/e0742aaf-500e-427f-9c2b-a2d0bdfd9a28.jpg",
-        "title": "Onramp",
-        "categories": [ "Обменники" ],
-        "app_link": "https://onramp.money/main/buy/?appId=1&coinCode=ton",
-        "description": "Облегчите пользователям недорогие покупки криптовалюты."
-      },
-      {
-        "id": "887f1130-7a75-11e4-ba11b-f9c14cb0231132",
-        "preview_img": "https://ton.app/media/0f34939b-44b1-4be6-9ac1-2f97d61655d4.png",
-        "title": "STON.fi",
-        "categories": [ "Defi" ],
-        "app_link": "https://app.ston.fi/swap?chartVisible=false&ft=TON&tt=DFC",
-        "description": "Дефи обменник с низкой комиссией"
-      },
-      {
-        "id": "887f1130-7a75-11e4-ba11b-f9c123114cb0dd132",
-        "preview_img": "https://ton.app/media/36676ef1-0094-4238-98fb-d65c64a51323.jpg",
-        "title": "DeDust",
-        "categories": [ "Defi" ],
-        "app_link": "https://dedust.io/swap",
-        "description": "AMM DEX на блокчейне TON"
-      },
-      {
-        "id": "887f1130-7a75-11e4-ba11b-f9cssd14cb0dd132",
-        "preview_img": "https://ton.app/media/7dd2dd1b-a388-48cb-a388-495411d24a3e.jpg",
-        "title": "TonStarter",
-        "categories": [ "Defi" ],
-        "app_link": "https://tonstarter.com/",
-        "description": "Первая и лучшая панель запуска TON"
-      },
+    {
+      "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
+      "preview_img": "https://ton.app/media/3f30dde6-870b-4d0b-a2d1-201666e01a41.png?w=640&q=50",
+      "title": "xRocket",
+      "categories": [ "CEX"],
+      "app_link": "https://t.me/xrocket/cex",
+      "description": "Торгуйте, отправляйте и получайте популярные криптовалюты"
+    },
+    {
+      "id": "887f1130-7a75-11e4-ba11b-f9c14cb0231132",
+      "preview_img": "https://ton.app/media/0f34939b-44b1-4be6-9ac1-2f97d61655d4.png",
+      "title": "STON.fi",
+      "categories": [ "DeFi" ],
+      "app_link": "https://app.ston.fi/swap?chartVisible=false&ft=TON&tt=DFC",
+      "description": "Дефи обменник с низкой комиссией"
+    },
+    {
+      "id": "887f1130-7a75-11e4-ba11b-f9c123114cb0dd132",
+      "preview_img": "https://ton.app/media/36676ef1-0094-4238-98fb-d65c64a51323.jpg",
+      "title": "DeDust",
+      "categories": [ "DeFi" ],
+      "app_link": "https://dedust.io/swap",
+      "description": "AMM DEX на блокчейне TON"
+    },
     {
       "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd155",
       "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/vpn.png",
@@ -92,7 +44,7 @@
       "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd1dd",
       "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/storm.png",
       "title": "StormTrade",
-      "categories": ["Defi"],
+      "categories": ["Утилиты"],
       "app_link": "https://t.me/StormTradeBot/trade?startapp=3A2LK6sewdQKMmsUF",
       "description": "Децентрализованная биржа с кредитным плечом для торговли деривативами в Telegram"
     },
@@ -100,17 +52,25 @@
       "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd1d1",
       "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/coffee.png",
       "title": "swap.coffee",
-      "categories": ["Defi", "Обменники"],
+      "categories": ["DeFi"],
       "app_link": "https://swap.coffee/dex",
       "description": "Прогрессивный DEX Aggregator"
     },
     {
-      "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd111",
-      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/jetton.png",
-      "title": "JetTon 💎 Games",
-      "categories": ["GameFi"],
-      "app_link": "https://t.me/jetton?start=ccMXklRST3i",
-      "description": " №1 игровая платформа Telegram"
+      "id": "887f1130-7a75-11e4-ba11b-f9cssd14cb0dd132",
+      "preview_img": "https://ton.app/media/7dd2dd1b-a388-48cb-a388-495411d24a3e.jpg",
+      "title": "TonStarter",
+      "categories": [ "Утилиты" ],
+      "app_link": "https://tonstarter.com/",
+      "description": "Первая и лучшая панель запуска TON"
+    },
+    {
+      "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd1dd",
+      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/storm.png",
+      "title": "StormTrade",
+      "categories": ["Утилиты"],
+      "app_link": "https://t.me/StormTradeBot/trade?startapp=3A2LK6sewdQKMmsUF",
+      "description": "Децентрализованная биржа с кредитным плечом для торговли деривативами в Telegram"
     }
   ]
 }

@@ -29,6 +29,16 @@
       }
     },
     {
+      "title": "Ton Poker",
+      "description": "Первый в истории TG crypto Poker",
+      "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ton-poker-logo.svg?raw=true",
+      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ton-poker-bg.png?raw=true",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/myTonPokerBot/lobby?startapp=eyJhZnAiOiJaRGhpTW1FeFltWmtPRFEyT1RCak9XSmtPR0U0WmpsbU9URmpNbU15TkRrIn0"
+      }
+    },
+    {
       "title": "Arraken Planet",
       "description": "DFC фарм стратегия",
       "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/araken-logo.jpg?raw=true",

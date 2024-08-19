@@ -63,6 +63,14 @@
       "categories": ["Утилиты"],
       "app_link": "https://t.me/StormTradeBot/trade?startapp=3A2LK6sewdQKMmsUF",
       "description": "Децентрализованная биржа с кредитным плечом для торговли деривативами в Telegram"
+    },
+    {
+      "id": "887f1130-7a35-11e4-b21b-f9cs1w13cb0dd1dd",
+      "preview_img": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ton-poker-logo.svg?raw=true",
+      "title": "Ton Poker",
+      "categories": ["Games"],
+      "app_link": "https://t.me/myTonPokerBot/lobby?startapp=eyJhZnAiOiJaRGhpTW1FeFltWmtPRFEyT1RCak9XSmtPR0U0WmpsbU9URmpNbU15TkRrIn0",
+      "description": "Первый в истории TG Poker для криптовалют"
     }
   ]
 }

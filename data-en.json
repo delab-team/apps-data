@@ -65,6 +65,14 @@
       "description": "Decentralized leveraged exchange for derivatives trading in Telegram"
     },
     {
+      "id": "887f1130-7a35-11e4-b21b-f9cs1w1qq1b0dd1dd",
+      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
+      "title": "Whale 🐳",
+      "categories": ["Games"],
+      "app_link": "https://t.me/whale/?start=fb2f3d06eecafe67",
+      "description": "$10,000,000 worth of $WHALE Token Airdrop! Invite friends, Earn tokens!"
+    },
+    {
       "id": "887f1130-7a35-11e4-b21b-f9cs1w13cb0dd1dd",
       "preview_img": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ton-poker-logo.svg?raw=true",
       "title": "Ton Poker",

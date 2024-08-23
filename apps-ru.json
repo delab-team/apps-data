@@ -1,6 +1,14 @@
 {
   "banners": [
     {
+      "title": "Самые популярные игры, спорт и многое другое 🎰🎉",
+      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/whale/?start=fb2f3d06eecafe67"
+      }
+    },
+    {
       "title": "Присоединиться к сообществу DeLab Team",
       "preview": "https://raw.githubusercontent.com/delab-team/apps-data/9915879c59c6859a11ff9b1ea208d2f2cf538e62/assets/tg-banner.svg",
       "link": {
@@ -15,17 +23,20 @@
         "type": "INTERNAL",
         "href": "/swap"
       }
-    },
+    }
+  ],
+  "apps": [
     {
-      "title": "Самые популярные игры, спорт и многое другое 🎰🎉",
+      "title": "Whale 🐳",
+      "description": "Игры, спорт и другое",
       "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
+      "background": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-banner.png",
+      "descriptionColor": "#fff",
       "link": {
         "type": "TG",
         "href": "https://t.me/whale/?start=fb2f3d06eecafe67"
       }
-    }
-  ],
-  "apps": [
+    },
     {
       "title": "swap.coffee",
       "description": "Первый агрегатор DEX с маршрутизацией",
@@ -76,17 +87,6 @@
       "link": {
         "type": "TG",
         "href": "https://t.me/delabvpnbot/start"
-      }
-    },
-    {
-      "title": "Whale 🐳",
-      "description": "Игры, спорт и другое",
-      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
-      "background": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-banner.png",
-      "descriptionColor": "#fff",
-      "link": {
-        "type": "TG",
-        "href": "https://t.me/whale/?start=fb2f3d06eecafe67"
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "banners": [
     {
-      "title": "Most Popular games, Sports, and more 🎰🎉",
+      "title": "Use your knowledge in crypto and show your skills! Trade Now!",
       "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
       "link": {
         "type": "TG",
@@ -28,7 +28,7 @@
   "apps": [
     {
       "title": "Whale 🐳",
-      "description": "Games, sports and more",
+      "description": "Use your knowledge in crypto!",
       "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
       "background": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-banner.png",
       "descriptionColor": "#fff",

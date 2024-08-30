@@ -29,7 +29,7 @@
     {
       "title": null,
       "description": null,
-      "preview": null,
+      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
       "background": "https://github.com/delab-team/apps-data/blob/main/assets/whale.png?raw=true",
       "descriptionColor": "#fff",
       "link": {

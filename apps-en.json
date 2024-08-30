@@ -27,10 +27,10 @@
   ],
   "apps": [
     {
-      "title": "Whale 🐳",
-      "description": "BTC trading game. Trade now!",
-      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
-      "background": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-banner.png",
+      "title": null,
+      "description": null,
+      "preview": null,
+      "background": "https://github.com/delab-team/apps-data/blob/main/assets/whale.png?raw=true",
       "descriptionColor": "#fff",
       "link": {
         "type": "TG",

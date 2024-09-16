@@ -27,6 +27,7 @@
   ],
   "apps": [
     {
+      "id": "def3de90-0907-4674-884d-3feb56af06df",
       "title": null,
       "description": null,
       "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
@@ -38,6 +39,7 @@
       }
     },
     {
+      "id": "4a1fa26d-3ff5-49f0-9ca3-dd355abe51a0",
       "title": "swap.coffee",
       "description": "Первый агрегатор DEX с маршрутизацией",
       "preview": "https://raw.githubusercontent.com/delab-team/apps-data/9915879c59c6859a11ff9b1ea208d2f2cf538e62/assets/coffe-banner.svg",
@@ -48,6 +50,7 @@
       }
     },
     {
+      "id": "3f894bc8-f1e6-480d-bffd-1fa500cccc3c",
       "title": "Ton Poker",
       "description": "Первый в истории TG crypto Poker",
       "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ton-poker-logo.svg?raw=true",
@@ -58,6 +61,7 @@
       }
     },
     {
+      "id": "f59e3967-7f1a-433a-8988-152864c646a1",
       "title": "Arraken Planet",
       "description": "DFC фарм стратегия",
       "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/araken-logo.jpg?raw=true",
@@ -68,6 +72,7 @@
       }
     },
     {
+      "id": "f59e3967-7f1a-433a-8988-152864c646a1",
       "title": "DeSIM",
       "description": "Купить eSIM из другой страны",
       "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/desim.jpg?raw=true",
@@ -78,6 +83,7 @@
       }
     },
     {
+      "id": "bb6832ce-6904-4421-bc0d-48f769081aa0",
       "title": "DeVPN",
       "description": "Использовать VPN из другой страны",
       "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/vpn.png?raw=true",

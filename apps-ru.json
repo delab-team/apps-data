@@ -28,8 +28,8 @@
   "apps": [
     {
       "id": "def3de90-0907-4674-884d-3feb56af06df",
-      "title": null,
-      "description": null,
+      "title": "Whale 🐳",
+      "description": "Игры, спорт и другое",
       "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
       "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/1200x900.png?raw=true",
       "descriptionColor": "#fff",

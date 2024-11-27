@@ -31,7 +31,7 @@
       "title": null,
       "description": null,
       "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
-      "background": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/whale-up-banner-new.png",
+      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/358x250.png?raw=true",
       "descriptionColor": "#fff",
       "link": {
         "type": "TG",

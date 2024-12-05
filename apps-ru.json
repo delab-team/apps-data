@@ -1,7 +1,7 @@
 {
   "banners": [
     {
-      "title": "30% Daily 'No BS' Cashback only in @Whale!",
+      "title": "@Whale – Пополняйте счет и играйте уже сегодня! 🐳",
       "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
       "link": {
         "type": "TG",
@@ -28,10 +28,10 @@
   "apps": [
     {
       "id": "def3de90-0907-4674-884d-3feb56af06df",
-      "title": "Whale",
-      "description": "30% Кэшбэк 'Без Б' Ежедневно в Whale! ",
-      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
-      "background": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/1000x500.png",
+      "title": null,
+      "description": null,
+      "preview": null,
+      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/whale-1200x900.png?raw=true",
       "descriptionColor": "#fff",
       "link": {
         "type": "TG",

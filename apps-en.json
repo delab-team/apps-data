@@ -39,6 +39,17 @@
       }
     },
     {
+      "id": "887f1130-7a35-11e4-b21b-f9cs1w1qq1b0dd9997",
+      "title": null,
+      "description": null,
+      "preview": null,
+      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/fanton.jpg?raw=true",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/FanTonGameBot/app?startapp=play_utm-DeWallet"
+      }
+    },
+    {
       "id": "4a1fa26d-3ff5-49f0-9ca3-dd355abe51a0",
       "title": "swap.coffee",
       "description": "The first DEX aggregator with routing",

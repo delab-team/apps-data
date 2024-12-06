@@ -62,17 +62,6 @@
     },
     {
       "id": "f59e3967-7f1a-433a-8988-152864c646a1",
-      "title": "Arraken Planet",
-      "description": "DFC Farm Strategy",
-      "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/araken-logo.jpg?raw=true",
-      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/arraken-bg.png?raw=true",
-      "link": {
-        "type": "TG",
-        "href": "https://t.me/ArrakkenPlanet_bot"
-      }
-    },
-    {
-      "id": "f59e3967-7f1a-433a-8988-152864c646a1",
       "title": "DeSIM",
       "description": "Buy eSIM from another country",
       "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/desim.jpg?raw=true",

@@ -25,12 +25,12 @@
       "description": "Прогрессивный DEX Aggregator"
     },
     {
-      "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
-      "preview_img": "https://ton.app/media/3f30dde6-870b-4d0b-a2d1-201666e01a41.png?w=640&q=50",
-      "title": "xRocket",
-      "categories": [ "CEX"],
-      "app_link": "https://t.me/xrocket/cex",
-      "description": "Торгуйте, отправляйте и получайте популярные криптовалюты"
+      "id": "887f1130-7a75-11e4-ba11b-f9c123114cb0dd132",
+      "preview_img": "https://ton.app/media/36676ef1-0094-4238-98fb-d65c64a51323.jpg",
+      "title": "DeDust",
+      "categories": [ "DeFi" ],
+      "app_link": "https://dedust.io/swap",
+      "description": "AMM DEX на блокчейне TON"
     },
     {
       "id": "887f1130-7a75-11e4-ba11b-f9c14cb0231132",
@@ -39,14 +39,6 @@
       "categories": [ "DeFi" ],
       "app_link": "https://app.ston.fi/swap?chartVisible=false&ft=TON&tt=DFC",
       "description": "Дефи обменник с низкой комиссией"
-    },
-    {
-      "id": "887f1130-7a75-11e4-ba11b-f9c123114cb0dd132",
-      "preview_img": "https://ton.app/media/36676ef1-0094-4238-98fb-d65c64a51323.jpg",
-      "title": "DeDust",
-      "categories": [ "DeFi" ],
-      "app_link": "https://dedust.io/swap",
-      "description": "AMM DEX на блокчейне TON"
     },
     {
       "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd155",

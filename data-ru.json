@@ -9,6 +9,14 @@
       "description": "За каждый LevelUP в @Whale — сюрприз! 🎁"
     },
     {
+      "id": "887f1130-7a35-11e4-b21b-f9cs1w1qq1b0dd9997",
+      "preview_img": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/fanton.jpg?raw=true",
+      "title": "Fanton Fantasy Football",
+      "categories": ["Игры"],
+      "app_link": "https://t.me/FanTonGameBot/app?startapp=play_utm-DeWallet",
+      "description": "Внеси депозит — получи вход на турнир бесплатно!"
+    },
+    {
       "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd1d1",
       "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/coffee.png",
       "title": "swap.coffee",

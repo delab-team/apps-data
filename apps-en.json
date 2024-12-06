@@ -50,17 +50,6 @@
       }
     },
     {
-      "id": "3f894bc8-f1e6-480d-bffd-1fa500cccc3c",
-      "title": "Ton Poker",
-      "description": "First ever TG Poker for crypto",
-      "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ton-poker-logo.svg?raw=true",
-      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ton-poker-bg.png?raw=true",
-      "link": {
-        "type": "TG",
-        "href": "https://t.me/myTonPokerBot/lobby?startapp=eyJhZnAiOiJaRGhpTW1FeFltWmtPRFEyT1RCak9XSmtPR0U0WmpsbU9URmpNbU15TkRrIn0"
-      }
-    },
-    {
       "id": "f59e3967-7f1a-433a-8988-152864c646a1",
       "title": "DeSIM",
       "description": "Buy eSIM from another country",
@@ -82,6 +71,17 @@
       "link": {
         "type": "TG",
         "href": "https://t.me/delabvpnbot/start"
+      }
+    },
+    {
+      "id": "3f894bc8-f1e6-480d-bffd-1fa500cccc3c",
+      "title": "Ton Poker",
+      "description": "First ever TG Poker for crypto",
+      "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ton-poker-logo.svg?raw=true",
+      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ton-poker-bg.png?raw=true",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/myTonPokerBot/lobby?startapp=eyJhZnAiOiJaRGhpTW1FeFltWmtPRFEyT1RCak9XSmtPR0U0WmpsbU9URmpNbU15TkRrIn0"
       }
     }
   ]

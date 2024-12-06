@@ -28,9 +28,9 @@
   "apps": [
     {
       "id": "def3de90-0907-4674-884d-3feb56af06df",
-      "title": null,
-      "description": null,
-      "preview": null,
+      "title": "Fanton Fantasy Football",
+      "description": "First deposit = Free tournament entry!",
+      "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/fanton.png?raw=true",
       "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/whale-1200x900.png?raw=true",
       "descriptionColor": "#fff",
       "link": {
@@ -47,6 +47,17 @@
       "link": {
         "type": "TG",
         "href": "https://t.me/FanTonGameBot/app?startapp=play_utm-DeWallet"
+      }
+    },
+    {
+      "id": "3f894bc8-f1e6-480d-bffd-1fa500cccc3c",
+      "title": "Ton Poker",
+      "description": "First ever TG Poker for crypto",
+      "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ton-poker-logo.svg?raw=true",
+      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ton-poker-bg.png?raw=true",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/myTonPokerBot/lobby?startapp=eyJhZnAiOiJaRGhpTW1FeFltWmtPRFEyT1RCak9XSmtPR0U0WmpsbU9URmpNbU15TkRrIn0"
       }
     },
     {
@@ -82,17 +93,6 @@
       "link": {
         "type": "TG",
         "href": "https://t.me/delabvpnbot/start"
-      }
-    },
-    {
-      "id": "3f894bc8-f1e6-480d-bffd-1fa500cccc3c",
-      "title": "Ton Poker",
-      "description": "First ever TG Poker for crypto",
-      "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ton-poker-logo.svg?raw=true",
-      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/ton-poker-bg.png?raw=true",
-      "link": {
-        "type": "TG",
-        "href": "https://t.me/myTonPokerBot/lobby?startapp=eyJhZnAiOiJaRGhpTW1FeFltWmtPRFEyT1RCak9XSmtPR0U0WmpsbU9URmpNbU15TkRrIn0"
       }
     }
   ]

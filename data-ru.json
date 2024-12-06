@@ -5,8 +5,16 @@
       "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
       "title": "@Whale – Пополняйте счет и играйте уже сегодня! 🐳",
       "categories": ["Игры"],
-      "app_link": "https://t.me/whale/?start=fb2f3d06eecafe67",
+      "app_link": "https://t.me/Whale?start=dewallet",
       "description": "За каждый LevelUP в @Whale — сюрприз! 🎁"
+    },
+    {
+      "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd1d1",
+      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/coffee.png",
+      "title": "swap.coffee",
+      "categories": ["DeFi"],
+      "app_link": "https://swap.coffee/dex",
+      "description": "Прогрессивный DEX Aggregator"
     },
     {
       "id": "887f1130-7a75-11ee-babb-f9c14cb0ddfb",
@@ -47,30 +55,6 @@
       "categories": ["Утилиты"],
       "app_link": "https://t.me/desimtonbot/start",
       "description": "eSIM-сервис"
-    },
-    {
-      "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd1d1",
-      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/coffee.png",
-      "title": "swap.coffee",
-      "categories": ["DeFi"],
-      "app_link": "https://swap.coffee/dex",
-      "description": "Прогрессивный DEX Aggregator"
-    },
-    {
-      "id": "887f1130-7a75-11e4-ba11b-f9cssd14cb0dd132",
-      "preview_img": "https://ton.app/media/7dd2dd1b-a388-48cb-a388-495411d24a3e.jpg",
-      "title": "TonStarter",
-      "categories": [ "Утилиты" ],
-      "app_link": "https://tonstarter.com/",
-      "description": "Первая и лучшая панель запуска TON"
-    },
-    {
-      "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd1dd",
-      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/storm.png",
-      "title": "StormTrade",
-      "categories": ["Утилиты"],
-      "app_link": "https://t.me/StormTradeBot/trade?startapp=3A2LK6sewdQKMmsUF",
-      "description": "Децентрализованная биржа с кредитным плечом для торговли деривативами в Telegram"
     },
     {
       "id": "887f1130-7a35-11e4-b21b-f9cs1w13cb0dd1dd",

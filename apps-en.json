@@ -29,9 +29,9 @@
     {
       "id": "def3de90-0907-4674-884d-3feb56af06df",
       "title": "@Whale - Deposit & Play! 🐳",
-      "description": "Every LevelUP in @Whale = a surprise! 🎁",
+      "description": "LevelUP @Whale = surprise! 🎁",
       "preview":  "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
-      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/whale-1200x900.png?raw=true",
+      "background": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/whale-new.png?raw=true",
       "descriptionColor": "#fff",
       "link": {
         "type": "TG",

@@ -34,7 +34,7 @@
       "background": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/whale-red-1200x900.png",
       "descriptionColor": "#fff",
       "link": {
-        "type": "INTERNAL",
+        "type": "",
         "href": "http://whalegames.gg/?start=dewallet"
       }
     },

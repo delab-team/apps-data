@@ -4,7 +4,7 @@
       "title": "@Whale - Deposit and Play Today! 🐳",
       "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
       "link": {
-        "type": "EXTERNAL",
+        "type": "",
         "href": "http://whalegames.gg/?start=dewallet"
       }
     },

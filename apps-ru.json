@@ -4,7 +4,7 @@
       "title": "@Whale – Пополняйте счет и играйте уже сегодня! 🐳",
       "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
       "link": {
-        "type": "TG",
+        "type": "INTERNAL",
         "href": "http://whalegames.gg/?start=dewallet"
       }
     },
@@ -34,7 +34,7 @@
       "background": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/whale-red-1200x900.png",
       "descriptionColor": "#fff",
       "link": {
-        "type": "TG",
+        "type": "INTERNAL",
         "href": "http://whalegames.gg/?start=dewallet"
       }
     },

@@ -4,7 +4,7 @@
       "title": "@Whale – Пополняйте счет и играйте уже сегодня! 🐳",
       "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
       "link": {
-        "type": "INTERNAL",
+        "type": "EXTERNAL",
         "href": "http://whalegames.gg/?start=dewallet"
       }
     },

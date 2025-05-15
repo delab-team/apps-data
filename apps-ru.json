@@ -102,8 +102,8 @@
       "preview": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/tradoor-logo.png",
       "background": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/tradoor.png",
       "link": {
-      "type": "TG",
-      "href": "https://t.me/tradoor_io_bot"
+        "type": "TG",
+        "href": "https://t.me/tradoor_io_bot"
       }
     }
   ]

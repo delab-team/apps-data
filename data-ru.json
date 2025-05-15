@@ -41,14 +41,6 @@
       "description": "Прогрессивный DEX Aggregator"
     },
     {
-      "id": "887f1130-7a75-11e4-ba11b-f9c123114cb0dd132",
-      "preview_img": "https://ton.app/media/36676ef1-0094-4238-98fb-d65c64a51323.jpg",
-      "title": "DeDust",
-      "categories": [ "DeFi" ],
-      "app_link": "https://dedust.io/swap",
-      "description": "AMM DEX на блокчейне TON"
-    },
-    {
       "id": "887f1130-7a75-11e4-ba11b-f9c14cb0231132",
       "preview_img": "https://ton.app/media/0f34939b-44b1-4be6-9ac1-2f97d61655d4.png",
       "title": "STON.fi",
@@ -63,6 +55,14 @@
       "categories": [ "DeFi" ],
       "app_link": "https://t.me/tradoor_io_bot",
       "description": "Торгуйте на Super DEX TON: сверхбыстро, без проскальзывания цен и с самыми низкими комиссиями."
+    },
+    {
+      "id": "887f1130-7a75-11e4-ba11b-f9c123114cb0dd132",
+      "preview_img": "https://ton.app/media/36676ef1-0094-4238-98fb-d65c64a51323.jpg",
+      "title": "DeDust",
+      "categories": [ "DeFi" ],
+      "app_link": "https://dedust.io/swap",
+      "description": "AMM DEX на блокчейне TON"
     },
     {
       "id": "887f1130-7a75-11e4-ba11b-f9c14cb0231123123",

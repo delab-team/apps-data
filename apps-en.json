@@ -94,6 +94,17 @@
         "type": "TG",
         "href": "https://t.me/myTonPokerBot/lobby?startapp=eyJhZnAiOiJaRGhpTW1FeFltWmtPRFEyT1RCak9XSmtPR0U0WmpsbU9URmpNbU15TkRrIn0"
       }
+    },
+    {
+      "id": "3f894bc8-f1e6-480d-bffd-1fa500cccc5a",
+      "title": "Tradoor",
+      "description": "Trade on TON's Super DEX: ultra-fast, zero price slippage, and the lowest fees.",
+      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/tradoor-logo.png",
+      "background": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/tradoor.png",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/tradoor_io_bot"
+      }
     }
   ]
 }

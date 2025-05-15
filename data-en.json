@@ -57,6 +57,14 @@
       "description": "Low-fee DeFi exchanger"
     },
     {
+      "id": "887f1130-7a75-11e4-ba11b-f9c14cb0231552",
+      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/tradoor-logo.png",
+      "title": "Tradoor",
+      "categories": [ "DeFi" ],
+      "app_link": "https://t.me/tradoor_io_bot",
+      "description": "Trade on TON's Super DEX: ultra-fast, zero price slippage, and the lowest fees."
+    },
+    {
       "id": "887f1130-7a75-11e4-ba11b-f9c14cb0231123123",
       "preview_img": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/gm.png?raw=true",
       "title": "KINGY GM BATTLE",

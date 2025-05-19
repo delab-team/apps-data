@@ -72,19 +72,6 @@
       }
     },
     {
-      "id": "bb6832ce-6904-4421-bc0d-48f769081aa0",
-      "title": "DeVPN",
-      "description": "Использовать VPN из другой страны",
-      "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/vpn.png?raw=true",
-      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/de-vpn-bg.png?raw=true",
-      "titleColor": "#1C1E22",
-      "descriptionColor": "#8A97AA",
-      "link": {
-        "type": "TG",
-        "href": "https://t.me/delabvpnbot/start"
-      }
-    },
-    {
       "id": "3f894bc8-f1e6-480d-bffd-1fa500cccc3c",
       "title": "Ton Poker",
       "description": "Первый в истории TG crypto Poker",

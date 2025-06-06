@@ -50,6 +50,28 @@
       }
     },
     {
+      "id": "3f894bc8-f1e6-480d-bffd-1fa500ckf199",
+      "title": "Upscale",
+      "description": "Get funded for trading — keep up to 90% profits",
+      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/upscale-logo.png",
+      "background": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/tg_image_2819271603.png",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/UpscaleTradeBot"
+      }
+    },
+    {
+      "id": "3f894bc8-f1e6-480d-bffd-1fa500lkf13a",
+      "title": "Storm Trade",
+      "description": "Trade crypto, stocks & forex with up to x500 leverage",
+      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/storm-logo.png",
+      "background": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/%24STORM%20LIVE.png",
+      "link": {
+        "type": "TG",
+        "href": "https://t.me/StormTradeBot"
+      }
+    },
+    {
       "id": "4a1fa26d-3ff5-49f0-9ca3-dd355abe51a0",
       "title": "swap.coffee",
       "description": "The first DEX aggregator with routing",

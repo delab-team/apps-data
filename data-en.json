@@ -49,6 +49,22 @@
       "description": "Low-fee DeFi exchanger"
     },
     {
+      "id": "887f1130-7a75-11e4-ba11b-f9c14cb0231151",
+      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/upscale-logo.png",
+      "title": "Upscale",
+      "categories": [ "DeFi" ],
+      "app_link": "https://t.me/UpscaleTradeBot",
+      "description": "Get funded for trading — keep up to 90% profits"
+    },
+    {
+      "id": "887f1130-7a75-11e4-ba11b-f9c14cb0231199",
+      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/storm-logo.png",
+      "title": "Storm Trade",
+      "categories": [ "DeFi" ],
+      "app_link": "https://t.me/StormTradeBot",
+      "description": "Trade crypto, stocks & forex with up to x500 leverage"
+    },
+    {
       "id": "887f1130-7a75-11e4-ba11b-f9c14cb0231552",
       "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/tradoor-logo.png",
       "title": "Tradoor",

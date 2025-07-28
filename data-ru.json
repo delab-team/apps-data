@@ -73,6 +73,14 @@
       "description": "Торгуйте на Super DEX TON: сверхбыстро, без проскальзывания цен и с самыми низкими комиссиями."
     },
     {
+      "id": "887f1130-7a75-11e4-ba11b-f9c14cb02315c2",
+      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/99ab532f454cd1dc48cfff59be15874d47efa31d/assets/bidask.svg",
+      "title": "Bidask",
+      "categories": [ "DeFi" ],
+      "app_link": "https://bidask.finance/",
+      "description": "Молниеносный CLMM‑DEX"
+    },
+    {
       "id": "887f1130-7a75-11e4-ba11b-f9c123114cb0dd132",
       "preview_img": "https://ton.app/media/36676ef1-0094-4238-98fb-d65c64a51323.jpg",
       "title": "DeDust",

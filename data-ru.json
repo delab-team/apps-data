@@ -25,6 +25,14 @@
       "description": "Первый в истории TG Poker для криптовалют"
     },
     {
+      "id": "887f1130-7a35-11e4-b21b-f9cs1w1qq1b0dd1ff",
+      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/og-logo.jpg",
+      "title": "TheOriginals.io",
+      "categories": ["Игры"],
+      "app_link": "https://t.me/theoriginalsio_bot",
+      "description": "Лучшее казино Originals + 15% мгновенный рейкбек, без KYC, 99% RTP!"
+    },
+    {
       "id": "887f1130-7a35-11e4-b21b-f9css14cb0dd1d1",
       "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/main/assets/coffee.png",
       "title": "swap.coffee",

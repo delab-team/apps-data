@@ -1,14 +1,6 @@
 {
   "banners": [
     {
-      "title": "Ежедневный кешбэк 22%! Играй сейчас!",
-      "preview": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
-      "link": {
-        "type": "",
-        "href": "https://offers.whalegames.gg/?offer=7&uid=019ae9d7-df2f-7a66-9218-cf9b6ed21136"
-      }
-    },
-    {
       "title": "Присоединиться к сообществу DeLab Team",
       "preview": "https://raw.githubusercontent.com/delab-team/apps-data/9915879c59c6859a11ff9b1ea208d2f2cf538e62/assets/tg-banner.svg",
       "link": {
@@ -28,18 +20,6 @@
   "apps": [
     {
       "id": "def3de90-0907-4674-884d-3feb56af06df",
-      "title": "",
-      "description": "",
-      "preview":  "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
-      "background": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/whale-new-banner.png",
-      "descriptionColor": "#fff",
-      "link": {
-        "type": "",
-        "href": "https://offers.whalegames.gg/?offer=7&uid=019ae9d7-df2f-7a66-9218-cf9b6ed21136"
-      }
-    },
-    {
-      "id": "def3de90-0907-4674-884d-3feb56af06df",
       "title": "TheOriginals.io",
       "description": "15% мгновенный рейкбэк, без KYC, 99% RTP!",
       "preview":  "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/og-logo.jpg",
@@ -48,17 +28,6 @@
       "link": {
         "type": "TG",
         "href": "https://t.me/theoriginalsio_bot"
-      }
-    },
-    {
-      "id": "887f1130-7a35-11e4-b21b-f9cs1w1qq1b0dd9997",
-      "title": "Fanton Fantasy Football",
-      "description": "Первый депозит = Бесплатный вход в турнир!",
-      "preview": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/fanton.png?raw=true",
-      "background": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/fanton.jpg?raw=true",
-      "link": {
-        "type": "TG",
-        "href": "https://t.me/FanTonGameBot/app?startapp=play_utm-DeWallet"
       }
     },
     {

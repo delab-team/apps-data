@@ -1,28 +1,12 @@
 {
   "data": [
     {
-      "id": "887f1130-7a35-11e4-b21b-f9cs1w1qq1b0dd1dd",
-      "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/wallet-app-content/assets/whale-logo.png",
-      "title": "Whale",
-      "categories": ["Games"],
-      "app_link": "https://offers.whalegames.gg/?offer=7&uid=019ae9d7-df2f-7a66-9218-cf9b6ed21136",
-      "description": "Xmas Special! New Prizes and Rewards Daily - 22% Daily Cashback!"
-    },
-    {
       "id": "887f1130-7a35-11e4-b21b-f9cs1w1qq1b0dd1ff",
       "preview_img": "https://raw.githubusercontent.com/delab-team/apps-data/refs/heads/wallet-app-content/assets/og-logo.jpg",
       "title": "TheOriginals.io",
       "categories": ["Games"],
       "app_link": "https://t.me/theoriginalsio_bot",
       "description": "Best Originals Casino + 15% Instant Rakeback, No KYC, 99% RTP!"
-    },
-    {
-      "id": "887f1130-7a35-11e4-b21b-f9cs1w1qq1b0dd9997",
-      "preview_img": "https://github.com/delab-team/apps-data/blob/wallet-app-content/assets/fanton.png?raw=true",
-      "title": "Fanton Fantasy Football",
-      "categories": ["Games"],
-      "app_link": "https://t.me/FanTonGameBot/app?startapp=play_utm-DeWallet",
-      "description": "Make 1st deposit and get up free entry tournament"
     },
     {
       "id": "887f1130-7a35-11e4-b21b-f9cs1w13cb0dd1dd",
